@@ -1,6 +1,6 @@
 # Imgs.Library
 
-** place to store photos and logos **
+_place to store photos and logos
 
 ```https
 https://github.com/Struglix/Imgs.Library/blob/main/Struglix%20Logo.png
